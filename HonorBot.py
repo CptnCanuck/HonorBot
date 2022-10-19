@@ -99,4 +99,4 @@ async def honorboard(ctx, size: typing.Optional[int] = 10):
     return await ctx.send(embed=embed)
 
 #Run the bot with private discord key
-bot.run('ODcyMDM4NDcwODQxOTI5NzY4.YQkDHQ.yj-Lnvu6iCejtnbeT28mQiV0lPs')
+bot.run('INSERT KEY HERE')
